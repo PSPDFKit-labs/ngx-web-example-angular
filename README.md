@@ -1,5 +1,7 @@
 # NgxPdfViewer
 
+You can read about the example project in our [blog post](https://pspdfkit.com/blog/2021/how-to-build-an-angular-pdf-viewer-with-pdfjs/).
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.2.
 
 ## Development server
